@@ -13,12 +13,20 @@
 
 4. "predeploy": "npm run build",
    "deploy": "gh-pages -d build",
-   
+
+5. git init
+
+# add the changes
+6. git add .
+
+# commit changes
+7. git commit -m "deploy"
+
 # remove previous remote origin as given below
-5. git remote rm origin
+8. git remote rm origin
 
 #add remote origin
-6. git remote add origin https://github.com/mzndnes/mov.git
+9. git remote add origin https://github.com/mzndnes/mov.git
 
 #publish pages
-7. npm run deploy
+10. npm run deploy
