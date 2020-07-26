@@ -30,3 +30,12 @@
 
 #publish pages
 10. npm run deploy
+
+# clone the remote repoitory to local
+git clone https/github.com/mzndnes/pra.git
+
+# push to cloned remote repository
+git push origin master
+
+# check the clone url
+git remote -v
