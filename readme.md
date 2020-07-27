@@ -1,41 +1,34 @@
-# tic
+
 # publishing reactjs app in github
 
 1. Create repository in github
 
-# Goto local project directory and install gh-pages as given below
-2. npm install gh-pages --save-dev
+2. Goto local project directory and install gh-pages as given below
+   npm install gh-pages --save-dev
 
-# in package.json, After private, create property homepage as given below
-3. "homepage":"http://<username>.github.io/repo name",
+3. in package.json, After private, create property homepage as given below
+   "homepage":"http://<username>.github.io/repo name",
 
-# in package.json, after start, create following properties
+4. in package.json, after start, create following properties
 
-4. "predeploy": "npm run build",
+   "predeploy": "npm run build",
    "deploy": "gh-pages -d build",
 
-5. git init
+5. create local repository in the project directory
+   git init
 
-# add the changes
-6. git add .
+6. add the changes staneograpy area
+   git add .
 
-# commit changes
-7. git commit -m "deploy"
+7.commit changes
+   git commit -m "deploy"
 
-# remove previous remote origin as given below
-8. git remote rm origin
+8. remove previous remote repo origin
+   git remote rm origin
 
-#add remote origin
-9. git remote add origin https://github.com/mzndnes/mov.git
+9. add remote repo as origin
+   git remote add origin https://github.com/mzndnes/mov.git
 
-#publish pages
-10. npm run deploy
+10. publish pages
+   npm run deploy
 
-# clone the remote repoitory to local
-git clone https/github.com/mzndnes/pra.git
-
-# push to cloned remote repository
-git push origin master
-
-# check the clone url
-git remote -v
