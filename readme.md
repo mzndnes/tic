@@ -25,7 +25,7 @@
 
    git add .
 
-7.commit changes
+7. commit changes
 
    git commit -m "deploy"
 
