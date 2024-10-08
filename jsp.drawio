@@ -19,29 +19,23 @@
         <mxCell id="9YfReZDgyi08dJdwYzRx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YfReZDgyi08dJdwYzRx-6" target="9YfReZDgyi08dJdwYzRx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9YfReZDgyi08dJdwYzRx-6" value="Class Loading .class is loaded into sevlet container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9YfReZDgyi08dJdwYzRx-6" value="loading and Instantiation .class is loaded and instance is created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9YfReZDgyi08dJdwYzRx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YfReZDgyi08dJdwYzRx-8" target="9YfReZDgyi08dJdwYzRx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9YfReZDgyi08dJdwYzRx-8" value="Instantiation&lt;div&gt;Servlet is instantiated&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9YfReZDgyi08dJdwYzRx-8" value="Initialisation&lt;div&gt;Object is initialized with jspInit()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9YfReZDgyi08dJdwYzRx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YfReZDgyi08dJdwYzRx-10" target="9YfReZDgyi08dJdwYzRx-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9YfReZDgyi08dJdwYzRx-10" value="Initialisation&lt;div&gt;servlet is initialized&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9YfReZDgyi08dJdwYzRx-10" value="Request Handling with jspService()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9YfReZDgyi08dJdwYzRx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YfReZDgyi08dJdwYzRx-12" target="9YfReZDgyi08dJdwYzRx-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9YfReZDgyi08dJdwYzRx-12" value="Request handling by Service method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9YfReZDgyi08dJdwYzRx-12" value="Destroy object with jspDestroy()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9YfReZDgyi08dJdwYzRx-14" value="servlet is destroyed with destroy method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
