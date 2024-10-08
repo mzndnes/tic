@@ -37,7 +37,7 @@
         <mxCell id="9YfReZDgyi08dJdwYzRx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YfReZDgyi08dJdwYzRx-12" target="9YfReZDgyi08dJdwYzRx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9YfReZDgyi08dJdwYzRx-12" value="Request is processed by Service method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9YfReZDgyi08dJdwYzRx-12" value="Request handling by Service method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9YfReZDgyi08dJdwYzRx-14" value="servlet is destroyed with destroy method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
