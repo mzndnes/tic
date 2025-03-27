@@ -76,8 +76,8 @@
         <mxCell id="2jc-UGEySRAM_hphCr8X-15" value="Server Done" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="248" y="218" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2jc-UGEySRAM_hphCr8X-16" value="E&lt;sub&gt;B&lt;/sub&gt;( Premaster secret PMS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="252" y="258" width="170" height="30" as="geometry" />
+        <mxCell id="2jc-UGEySRAM_hphCr8X-16" value="E&lt;sub&gt;PB&lt;/sub&gt;( Premaster secret PMS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="247" y="258" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2jc-UGEySRAM_hphCr8X-17" value="Change Cipher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="251" y="298" width="100" height="30" as="geometry" />
