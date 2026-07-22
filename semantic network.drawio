@@ -84,8 +84,8 @@
         <mxCell id="crlalm5p2zPuE7U9DkkD-29" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" value="has" vertex="1">
           <mxGeometry height="30" width="50" x="455" y="12" as="geometry" />
         </mxCell>
-        <mxCell id="crlalm5p2zPuE7U9DkkD-30" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="is-a" vertex="1">
-          <mxGeometry height="30" width="50" x="545" y="68" as="geometry" />
+        <mxCell id="crlalm5p2zPuE7U9DkkD-30" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="plays" vertex="1">
+          <mxGeometry height="30" width="60" x="548" y="68" as="geometry" />
         </mxCell>
         <mxCell id="crlalm5p2zPuE7U9DkkD-32" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" value="inst" vertex="1">
           <mxGeometry height="30" width="50" x="512" y="188" as="geometry" />
